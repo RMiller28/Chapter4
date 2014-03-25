@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\Chapter4\GetVowels.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\Chapter4\GetVowels.cs\bin\Debug\GetVowels.cs.exe
+C:\Users\eahscs\Documents\GitHub\Chapter4\GetVowels.cs\bin\Debug\GetVowels.cs.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter4\GetVowels.cs\obj\x86\Debug\GetVowels.cs.exe
+C:\Users\eahscs\Documents\GitHub\Chapter4\GetVowels.cs\obj\x86\Debug\GetVowels.cs.pdb
