@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\Chapter4\TableOfSquares.cs\bin\Debug\TableOfSquares.cs.exe
+C:\Users\eahscs\Documents\GitHub\Chapter4\TableOfSquares.cs\bin\Debug\TableOfSquares.cs.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter4\TableOfSquares.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\Chapter4\TableOfSquares.cs\obj\x86\Debug\TableOfSquares.cs.exe
+C:\Users\eahscs\Documents\GitHub\Chapter4\TableOfSquares.cs\obj\x86\Debug\TableOfSquares.cs.pdb

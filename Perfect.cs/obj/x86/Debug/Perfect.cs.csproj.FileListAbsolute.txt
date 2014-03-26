@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\Chapter4\Perfect.cs\bin\Debug\Perfect.cs.exe
+C:\Users\eahscs\Documents\GitHub\Chapter4\Perfect.cs\bin\Debug\Perfect.cs.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter4\Perfect.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\Chapter4\Perfect.cs\obj\x86\Debug\Perfect.cs.exe
+C:\Users\eahscs\Documents\GitHub\Chapter4\Perfect.cs\obj\x86\Debug\Perfect.cs.pdb
